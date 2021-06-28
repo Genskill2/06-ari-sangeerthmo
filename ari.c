@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
+#include <cs50.h>
 
 typedef int count ;
 string ari (string paragraph) {
